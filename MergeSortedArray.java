@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-//merge sorted array
+//https://leetcode.com/problems/merge-sorted-array/
 public class MergeSortedArray{
 
     public static void main(String a[]){

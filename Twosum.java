@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
-//two sum
+//https://leetcode.com/problems/two-sum/
 class Twosum {
     public static int[] twoSum(int[] nums, int target) {
     Map<Integer, Integer> numToIndex = new HashMap<>();

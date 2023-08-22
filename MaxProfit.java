@@ -1,5 +1,5 @@
 
-//max profit
+//https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 public class MaxProfit {
 
     public static void main(String a[]) {
